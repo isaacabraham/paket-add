@@ -1,0 +1,5 @@
+STORAGE: NONE
+RESTRICTION: == netcoreapp3.0
+NUGET
+  remote: https://api.nuget.org/v3/index.json
+    Newtonsoft.Json (12.0.1)
